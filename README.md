@@ -1,1 +1,1 @@
-# Renuka
+# Quiz App
